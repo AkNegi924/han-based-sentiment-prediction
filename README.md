@@ -6,6 +6,8 @@
 
 This repository contains the implementation of a Hierarchical Attention Network (HAN) augmented with RoBERTa embeddings for binary sentiment classification of tweets. By capturing both word- and sentence-level contextual information, our HAN-RoBERTa model achieves high accuracy and offers interpretable attention visualizations.
 
+Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
+
 ---
 
 ## Table of Contents
